@@ -1,0 +1,16 @@
+Nama Repo : ASD_NIM_NAMA
+Folder:
+	Praktikum1:
+		data_mahasiswa.txt
+		praktikum1.py
+	Praktikum2:
+		data_mahasiswa.txt
+		praktikum2.py
+		data_barang.txt
+		tugas1.py
+	Praktikum3:
+
+
+Deadline : Senin 23.59
+
+Pekan depan(Ngebahas topik proyek)
