@@ -3,6 +3,10 @@
 # Kelas : A2
 # Praktikum 13 - Graph III: Spanning Tree
 
+# ==========================================================
+# Implementasi Sederhana Algoritma Frim
+# ==========================================================
+
 # Mengimpor library heapq untuk menyediakan implementasi algoritma antrian heap
 import heapq
 
